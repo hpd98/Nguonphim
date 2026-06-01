@@ -1,0 +1,12 @@
+{
+    "version": 1,
+    "plugins": [
+        {
+            "id": "phimlongtieng",
+            "name": "Phim Lồng Tiếng",
+            "version": "1.0.0",
+            "scriptUrl": "https://raw.githubusercontent.com/hpd98/Nguonphim/main/phimlongtieng_plugin.js",
+            "iconUrl": "https://www.aphim7.com/logo_aphim2.png"
+        }
+    ]
+}
